@@ -1,0 +1,14 @@
+body {
+  background-color: #181818;
+}
+
+#logo {
+  display: none;
+}
+
+canvas {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
